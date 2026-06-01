@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "usuario": "juan",
+      "clave": "1234",
+      "estado": "activo",
+      "vence": "2026-06-30"
+    },
+    {
+      "usuario": "pedro",
+      "clave": "5678",
+      "estado": "suspendido",
+      "vence": "2026-05-30"
+    }
+  ]
+}
